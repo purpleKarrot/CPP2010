@@ -1,0 +1,8 @@
+correctly
+spelled
+words
+are
+stored
+in
+the
+dictionary
