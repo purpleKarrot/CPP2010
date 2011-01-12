@@ -1,0 +1,13 @@
+
+Exercise 1
+Have a look at the multi-method slides and come up with a
+solution of how to solve it until the next lecture. Implement your
+solution – you should be able to demonstrate your solution in the
+first 10 minutes of the next lecture.
+
+Exercise 3
+Extend your RPN calculator in a way that numbers can be
+displayed in different representations. For example, the user
+should get the option to choose between scientific, engineering,
+and standard format or possibly as fraction. Use the formatting
+commands we learned in this lecture.
